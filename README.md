@@ -24,3 +24,19 @@ Data can be obtained from this database with SQL queries: <https://data.stackexc
 Libraries used in model training: pandas, matplotlib, nltk, re, string, sklearn, seaborn, yellowbrick, eli5, pickle.
 
 Libraries for web app: streamlit, requests, joblib, pickle, os
+
+## Model Findings
+#### Accuracy:
+|        Algorithms       | Accuracy |
+|:-----------------------:|:--------:|
+|   Logistic Regression   |    92%   |
+| Multinomial Naive Bayes |    88%   |
+|      Decision Tree      |    87%   |
+
+#### ROCAUC curve:
+![ROCAUC Curve](https://user-images.githubusercontent.com/45889977/148638390-49714172-fa79-4517-8afe-27d33809693b.JPG)
+
+#### Feature texts contributions:
+<img width="521" alt="Screenshot 2022-01-08 at 5 02 04 PM" src="https://user-images.githubusercontent.com/45889977/148638539-2a30b862-ca2f-4279-8e08-dc087a2f6e74.png">
+
+
