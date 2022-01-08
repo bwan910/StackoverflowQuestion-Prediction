@@ -1,12 +1,9 @@
 import streamlit as st
 from streamlit import components
-from PIL import Image
 import requests
-#from Explained import explained
 import joblib
 import pickle
 import os
-#import eli5
 from explain_words import explain_words
 
 
