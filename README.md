@@ -12,7 +12,7 @@
 - Created a tool that predicts tags for Stackoverflow questions for (Java, Javascript, PHP, Python only).
 - Exploratory Data Analysis were performed to explore dataset
 - Data Preprocessing
-- Optimized Decision Tree, Logistic Regression and Multinomial Naive Bayes to reach the best model.
+- Optimized few Machine Learning Algorithms: Decision Tree, Logistic Regression and Multinomial Naive Bayes to reach the best model.
 - Model evaluated with a few metrics (Accuracy, Precision, Recall and etc)
 - Built a web interface using Streamlit
 
